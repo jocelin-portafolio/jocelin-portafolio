@@ -22,6 +22,13 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
+## 🌱 NINTAI — AI Capability Intelligence
+Startup que estoy construyendo como fundadora: una plataforma de IA que transforma capacidades humanas en nuevas rutas de aprendizaje, empleo e ingresos. Parte con mujeres que buscan reconversión laboral y escala a personas en transición, freelancers e instituciones.
+- **NINTAI 2.0 (LATAM):** acceso conversacional por WhatsApp, constructor de micro-servicios con cobros locales y alianzas B2B2C con programas públicos.
+- **MVP:** perfil inteligente, motor IA con RAG, generador de rutas y constructor de servicios.
+
+`Next.js` `TypeScript` `Python` `LangChain` `Langfuse` `n8n` · [Ver propuesta completa](https://jocelin-portafolio.github.io/#nintai)
+
 ## 🚀 Proyectos destacados
 
 ### 🤖 [finanzas-agent](https://github.com/jocelin-portafolio/finanzas-agent) — Agente de IA + servidor MCP
