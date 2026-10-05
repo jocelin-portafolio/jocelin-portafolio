@@ -2,10 +2,14 @@
 
 **Desarrollo web full stack e ingeniería de agentes de IA.** Construyo aplicaciones con foco en el área de la salud y la inclusión: plataformas para organizaciones que trabajan con neurodiversidad y discapacidad, y agentes con LLMs diseñados para ser seguros, medibles y observables.
 
+🌐 **Portafolio:** [jocelin-portafolio.github.io](https://jocelin-portafolio.github.io)
+
 ### 🛠️ Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
@@ -50,12 +54,19 @@ Perfiles sensoriales, e-commerce con carrito persistente y monitor IoT simulado.
 - **Renderizado 100 % seguro frente a XSS**: sin `innerHTML`, solo `createElement` / `textContent`.
 - Validación con expresiones regulares, búsqueda y filtrado en tiempo real, notificaciones toast.
 
-`JavaScript ES6+` `DOM API` `localStorage`
+`JavaScript ES6+` `DOM API` `localStorage` · [Demo](https://jocelin-portafolio.github.io/huellanativa/)
 
 ### 🐴 [terapia_proyecto](https://github.com/jocelin-portafolio/terapia_proyecto) — Sitio institucional
 Sitio responsive para una fundación de terapias en la naturaleza: donaciones, alianzas RSE, scroll spy y validación de formularios en tiempo real.
 
-`HTML5` `CSS3` `Bootstrap 5` `JavaScript`
+`HTML5` `CSS3` `Bootstrap 5` `JavaScript` · [Demo](https://jocelin-portafolio.github.io/terapia_proyecto/)
+
+### 🗄️ [proyecto_bd](https://github.com/alexispferrada-wq/proyecto_bd) — Gestión de productos en Django *(proyecto en equipo)*
+CRUD con autenticación sobre base de datos relacional, desarrollado junto a [Alex Ferrada](https://github.com/alexispferrada-wq).
+- Patrón MVT con ORM y migraciones; login y registro con hash PBKDF2, CSRF y `@login_required`.
+- Doble entorno: Docker Compose (Django + MySQL 8 + phpMyAdmin) o local con SQLite.
+
+`Python` `Django 5` `MySQL` `Docker`
 
 ## 📌 Enfoque de trabajo
 
