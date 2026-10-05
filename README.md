@@ -17,6 +17,9 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
@@ -39,6 +42,14 @@ Agente con Claude que gestiona finanzas personales en lenguaje natural a través
 - Trazas de **latencia, tokens y costo** por tarea.
 
 `Python` `MCP` `Claude API` `Pydantic` `SQLite` `pytest` `GitHub Actions` `Docker`
+
+### 🏛️ [IA para licitaciones · PlatWave](https://github.com/jocelin-portafolio/platwave-licitaciones-ia) — Experiencia profesional *(desarrollo full stack)*
+Plataforma que analiza bases de licitación y evalúa ofertas técnicas y económicas con agentes de IA hasta generar un ranking global.
+- Tres agentes en **LangGraph**: análisis de criterios con ramas en paralelo, preguntas y respuestas (*retrieve → generate → rewrite*) y evaluación de ofertas.
+- **RAG** con una colección de ChromaDB por licitación; API en **FastAPI** con evaluaciones asíncronas sobre PostgreSQL.
+- Frontend en **React** con SSO de Keycloak; trazas en **Langfuse**.
+
+`Python` `FastAPI` `LangGraph` `LangChain` `ChromaDB` `PostgreSQL` `React` `Keycloak` · *Código propiedad de PlatWave; se publica el caso de estudio.*
 
 ### 🏥 [aped-plataforma](https://github.com/jocelin-portafolio/aped-plataforma) — Plataforma full stack para ONG
 Sitio y API para una organización de personas con discapacidad.
