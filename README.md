@@ -32,6 +32,8 @@ Startup que estoy construyendo como fundadora: una plataforma de IA que transfor
 
 `Next.js` `TypeScript` `Python` `LangChain` `Langfuse` `n8n` · [Ver propuesta completa](https://jocelin-portafolio.github.io/#nintai)
 
+**Primer módulo construido → [nintai-capacidades](https://github.com/jocelin-portafolio/nintai-capacidades)** · chatbot con Claude que genera el mapa de capacidades (streaming, validación Pydantic, fallbacks, tests y evals) · [Demo](https://jocelin-portafolio.github.io/nintai-capacidades/?reproducir=1)
+
 ## 🚀 Proyectos destacados
 
 ### 🤖 [finanzas-agent](https://github.com/jocelin-portafolio/finanzas-agent) — Agente de IA + servidor MCP
